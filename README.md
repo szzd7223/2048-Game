@@ -12,7 +12,7 @@ A simple implementation of the 2048 game using HTML, CSS, and JavaScript. This p
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/2048-game.git
+    git clone https://github.com/szzd7223/2048-game.git
     ```
 
 2. Navigate to the project directory:
